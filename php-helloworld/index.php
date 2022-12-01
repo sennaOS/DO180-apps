@@ -1,3 +1,3 @@
 <?php
-print "Ovo je testna stranica " . PHP_VERSION . "\n";
+print "Ovo je DO180" . "\n";
 ?>
